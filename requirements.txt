@@ -1,0 +1,5 @@
+pdfplumber>=0.11
+pypdf>=4.0
+ebooklib>=0.18
+beautifulsoup4>=4.12
+pyyaml>=6.0
